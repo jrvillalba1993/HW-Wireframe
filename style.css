@@ -13,6 +13,7 @@ header, nav, section, aside, footer {
     	padding: 20px;
    	 margin: 10px auto 0px auto;
    	 font-size: 18px;
+	height: 50px
 }
 
 header, nav, footer {
@@ -27,7 +28,7 @@ section, aside {
 
 section {
     	float: left;
-    	width: 495px;
+    	width: 400px;
     	height: 275px;
 }
 
@@ -38,7 +39,7 @@ aside {
 }
 
 article {
-	background-color: #777777;
+	background-color: #777;
 	color:  #ebebeb;
 	margin: 25px 10px 10px 10px;
 	padding: 20px 15px 10px 15px;
@@ -47,7 +48,7 @@ article {
 
 h1, p {
 	box-sizing: border-box;
-	background-color: #777777;
+	background-color: #777;
 	color: #ebebeb;
 	margin: 10px 10px;
 	padding: 10px 10px;
